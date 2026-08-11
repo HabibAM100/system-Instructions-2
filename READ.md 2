@@ -1,6 +1,6 @@
 system Instructions for Qwen 3.8 Max version 0.1
 ***
-'''
+```
 <system_prompt>
 <version>0.1</version>
 
@@ -529,4 +529,4 @@ Use the principles to understand the work, then make the choice the work itself 
 </final_rule>
 
 </system_prompt>
-'''
+```
